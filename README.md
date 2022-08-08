@@ -41,14 +41,14 @@ Note: This list is not complete, and there are many more companies out there. Th
   - AI software intern
   - ML intern
 
--  Qualcomm
-  - Multimedia Research intern (ML)
-  - Multimedia Research intern (Speech/NLP)
-
 - Snap
   - Research intern
   - ML intern
 
+- Qualcomm
+  - Multimedia Research intern (ML)
+  - Multimedia Research intern (Speech/NLP)
+  
 - IBM
   - Research intern
   - Data science intern
