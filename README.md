@@ -140,3 +140,6 @@ Note: This list is not complete, and there are many more companies out there. Th
 - Coinbase
 - Tinder ❤️ 
 - Expedia
+
+## Contribution
+Contributions are very welcome! Please submit a pull request on GitHub.
